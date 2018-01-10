@@ -1,4 +1,4 @@
-#React Example by using Webpack, Babel and React Touter
+# React Example by using Webpack, Babel and React Touter
 Steps:
 
 1. npm init
